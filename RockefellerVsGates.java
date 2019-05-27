@@ -24,7 +24,7 @@ public class RockefellerVsGates {
 	
 	String occupation = "Oil industry business magnate and philanthropy";
 
-	long donationGave = 80000000000L;
+	long donationGave = 80_000_000_000L;
 	String donationUniver = "University of Chicago";
 
 	boolean x = true;
